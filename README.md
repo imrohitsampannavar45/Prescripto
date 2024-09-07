@@ -36,4 +36,9 @@ cd frontend
 npm install
 
 ```bash
-npm run dev 
+npm run dev
+
+## Video Preview 
+
+https://github.com/user-attachments/assets/2cf9ccd2-c385-4f5e-816e-da3ccef15edb
+
