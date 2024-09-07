@@ -38,7 +38,15 @@ npm install
 ```bash
 npm run dev
 
-## Video Preview 
+```
 
-https://github.com/user-attachments/assets/2cf9ccd2-c385-4f5e-816e-da3ccef15edb
+
+## Video Preview
+
+
+
+https://github.com/user-attachments/assets/f80cf322-a127-4990-a103-4dcbf5688341
+
+
+
 
